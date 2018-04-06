@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 816 1056"
+   height="1056"
+   width="816"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath20"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path18"
+         d="M 0,0 H 612 V 792 H 0 Z" /></clipPath><clipPath
+       id="clipPath30"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path28"
+         d="m 33.075,69.10552 h 545.85 v 614.8945 H 33.075 Z" /></clipPath><clipPath
+       id="clipPath600"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path598"
+         d="M 400.0136,635.713 H 612 V 790.252 H 400.0136 Z" /></clipPath><clipPath
+       id="clipPath654"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path652"
+         d="m 18.11998,639.7979 h 416.76 V 792 h -416.76 z" /></clipPath><clipPath
+       id="clipPath668"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path666"
+         d="m 18.11998,661 h 416.76 v 123 h -416.76 z" /></clipPath><clipPath
+       id="clipPath682"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path680"
+         d="m 128.5188,470.26 h 133.7469 v 97.93438 H 128.5188 Z" /></clipPath><clipPath
+       id="clipPath782"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path780"
+         d="m 226.5,470.26 h 142.3891 v 97.93438 H 226.5 Z" /></clipPath><clipPath
+       id="clipPath884"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path882"
+         d="m 428.4089,641.8813 h 26.9025 V 786.272 h -26.9025 z" /></clipPath><mask
+       id="mask888"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse"><image
+         id="image890"
+         xlink:href="data:image/png;base64,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"
+         preserveAspectRatio="none"
+         height="1"
+         width="1" /></mask><clipPath
+       id="clipPath900"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path898"
+         d="m 355.2683,470.26 h 98.04312 v 97.93438 H 355.2683 Z" /></clipPath><clipPath
+       id="clipPath1000"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path998"
+         d="m 453.3114,470.26 h 89.4906 v 97.93438 h -89.4906 z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)"
+     id="g10"><g
+       id="g12" /><g
+       id="g14"><g
+         clip-path="url(#clipPath20)"
+         id="g16"><path
+           id="path22"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 H 612 V 792 H 0 Z" /></g></g><g
+       id="g24"><g
+         clip-path="url(#clipPath30)"
+         id="g26"><g
+           transform="translate(36,626)"
+           id="g32"><text
+             id="text36"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan34"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,612)"
+           id="g38"><text
+             id="text42"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan40"
+               y="0"
+               x="0 6.48 12.04 20.57 29.1 34.470001 37.799999">Summary</tspan></text>
+<text
+             id="text46"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,42.8,0)"><tspan
+               id="tspan44"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,612)"
+           id="g48"><text
+             id="text52"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,84,0)"><tspan
+               id="tspan50"
+               y="0"
+               x="0 5.1659999 10.17 12.168 14.166 16.667999 21.167999 24.003 28.836 33.668999 38.34 40.841999 47.664001 52.497002 57.834 60.335999 65.672997 70.505997 75.005997 79.838997 81.836998 87.002998 92.339996 97.172997 100.17 102.672 109.494 111.492 114.327 119.331 121.833 126.666 129.168 134.505 139.338 143.838 148.338 150.336 155.502 160.506 163.008 165.672 170.838 173.83501 176.33701 181.17 183.168 188.00101 192.834 195.83099 198.33299 203.166 208.17 213.507 216.009">Full stack web developer with a passion for clear and e</tspan></text>
+<text
+             id="text56"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,304.842,0)"><tspan
+               id="tspan54"
+               y="0"
+               x="0">ﬀ</tspan></text>
+<text
+             id="text60"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,310.035,0)"><tspan
+               id="tspan58"
+               y="0"
+               x="0 4.8330002 9.6660004 12.501 14.499 18.999001 23.832001 26.334 31.167 36.333 44.009998 51.687 56.691002 61.695 63.693001 68.526001 73.359001 76.194 78.192001 83.358002 88.362 90.863998 95.867996 100.368 102.366 107.37 112.536 115.038 120.375 123.21 128.37601 132.87601 137.709 142.713 145.215 152.892 157.72501 160.56 165.564 170.73 176.067 180.567 183.069 188.40601 193.239 197.739 202.57201 207.909 210.411 215.577 220.58099">ective communication using proven methods based on </tspan></text>
+</g><g
+           transform="translate(120,598)"
+           id="g62"><text
+             id="text66"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan64"
+               y="0"
+               x="0 2.835 7.6680002 12.168 17.000999 21.834 24.669001 29.502001 34.506001 37.007999 39.509998 41.841 44.342999 49.347 54.513 59.849998 64.682999 67.184998 70.019997 75.185997 77.688004 82.521004 85.356003 90.189003 95.022003 97.857002 99.855003 104.355 109.188 111.186 115.686 118.188 122.688 127.854 129.85201 134.35201 139.185 141.687 147.024 149.85899 155.02499 160.362 162.36 167.19299 174.87 179.37 181.87199 186.87601 191.37601 193.37399 198.37801 203.54401 206.04601 212.868 217.701 223.03799 225.53999 230.877 235.71001 240.21001 245.043 247.041 252.207 257.54401 265.22101 270.05399 275.05801 277.89301 280.39499 285.228 290.23199 295.569 298.07101 302.742 307.746 312.91199 319.73401 321.73199 326.565 331.90201 337.06799 341.901 344.40302 349.569 352.233 354.73499 359.73901 364.23901 369.07199 374.409 376.40701 378.405 380.40302 383.23801 387.73801 390.23999 393.07501 398.241 400.74301 406.07999 408.91501 414.08099 418.58099 420.57901 425.91599 430.74899">research. I hope to creatively solve problems using web development and knowledge of usability to provide </tspan></text>
+</g><g
+           transform="translate(120,585)"
+           id="g68"><text
+             id="text72"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan70"
+               y="0"
+               x="0 2.835 7.6680002 12.501 17.504999 22.509001 27.674999 29.673 34.839001 40.005001 44.505001 47.007 49.841999 54.846001 59.679001 62.514 65.015999 67.014 71.514 74.015999 78.848999 83.681999 88.181999 92.681999 95.183998 97.848 103.014 106.011 108.513 113.517 118.521 126.198 131.03101 136.035 140.535 143.037 145.87199 151.03799 153.53999 158.54401 163.04401 167.877">technology that is easy for humans to use.</tspan></text>
+</g><g
+           transform="translate(120,585)"
+           id="g74"><text
+             id="text78"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,170.379,0)"><tspan
+               id="tspan76"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(120,585)"
+           id="g80"><text
+             id="text84"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,186,0)"><tspan
+               id="tspan82"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,570)"
+           id="g86" /><g
+           transform="translate(36,556)"
+           id="g88"><text
+             id="text92"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#89847f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan90"
+               y="0"
+               x="0 6.48 11.67 13.89 16.110001 18.33">Skills</tspan></text>
+<text
+             id="text96"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#89847f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,23.33,0)"><tspan
+               id="tspan94"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,542)"
+           id="g98" /><g
+           transform="translate(36,527)"
+           id="g100" /><g
+           transform="translate(36,514)"
+           id="g102" /><g
+           transform="translate(36,501)"
+           id="g104" /><g
+           transform="translate(36,487)"
+           id="g106" /><g
+           transform="translate(36,472)"
+           id="g108" /><g
+           transform="translate(36,458)"
+           id="g110" /><g
+           transform="translate(36,444)"
+           id="g112"><text
+             id="text116"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan114"
+               y="0"
+               x="0 6.1100001 11.29 17.219999 22.59 25.92 28.139999 33.509998 39.07 44.439999">Experience</tspan></text>
+<text
+             id="text120"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,49.81,0)"><tspan
+               id="tspan118"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text124"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan122"
+               y="0"
+               x="0 8.6899996 14.06 19.99 22.77 29.809999 35.18 40.18 45.549999 47.77 53.509998 59.439999 64.809998 68.139999 70.919998 73.510002 79.07 82.220001 87.589996 91.099998 96.660004 99.440002">Web Developer Intern, </tspan></text>
+</g><g
+           transform="translate(36,444)"
+           id="g126"><text
+             id="text130"
+             style="font-style:italic;font-variant:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Italic;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,181.42,0)"><tspan
+               id="tspan128"
+               y="0"
+               x="0 7.04 12.78 22.040001 27.6 33.34">DoWhop</tspan></text>
+</g><g
+           transform="translate(36,444)"
+           id="g132"><text
+             id="text136"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,220.69,0)"><tspan
+               id="tspan134"
+               y="0"
+               x="0 2.78 5.5599999 11.12 16.49 19.27 24.459999 30.200001 32.419998 34.639999 40.009998 42.790001 45.57 52.790001 59.27 62.049999 67.050003">; La Jolla, CA – </tspan></text>
+</g><g
+           transform="translate(36,444)"
+           id="g138"><text
+             id="text142"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,290.52,0)"><tspan
+               id="tspan140"
+               y="0"
+               x="0 5.5599999 11.12 16.68 22.24 25.02 28.91 31.690001 37.060001 42.619999 45.950001 49.099998 54.470001 60.029999">2018 - current</tspan></text>
+<text
+             id="text146"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,353.7,0)"><tspan
+               id="tspan144"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,429)"
+           id="g148"><text
+             id="text152"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan150"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,429)"
+           id="g154"><text
+             id="text158"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan156"
+               y="0"
+               x="0 3.5009999 6.0029998 12.168 17.172001 19.17 21.167999 24.003 26.504999 31.509001 36.008999 40.841999 43.839001 46.341 51.678001 54.513 59.679001 64.341003 66.338997 71.171997 73.674004 75.671997 83.348999 88.181999 93.348 98.181 100.683 105.687 111.024 113.022 118.188 123.021 128.358 130.86 135.69299 140.69701 146.034 148.536 153.873 155.871 160.371 165.70799 167.70599 172.539 177.039 179.541 182.205 187.03799 191.871 194.70599 199.71001 202.545 207.37801 209.88 214.884 219.384 221.382 226.386 231.552 234.054 238.72501 243.558 248.058 252.89101 258.72299 263.556 266.55301 268.55099 273.888 276.72299 279.22501 284.05801 289.06201 294.39899 296.901 302.06699 304.065 306.89999 311.733 317.07001 321.90302 326.40302 331.23599 333.73801 338.57101 340.569 345.73499 350.73901 356.07599 358.578 361.242 366.246 371.25 376.08301 378.918 380.91599 386.082">- Built user profle image upload and display feature using JavaScript and Firebase cloud function</tspan></text>
+</g><g
+           transform="translate(36,429)"
+           id="g160"><text
+             id="text164"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,470.286,0)"><tspan
+               id="tspan162"
+               y="0"
+               x="0">s</tspan></text>
+<text
+             id="text168"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,474.786,0)"><tspan
+               id="tspan166"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,416)"
+           id="g170"><text
+             id="text174"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan172"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text178"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan176"
+               y="0"
+               x="0 3.5009999 6.0029998 12.501 17.000999 18.999001 24.003 29.169001 31.671 37.502998 42.335999 47.34 52.676998 59.507999 62.505001 64.502998 69.839996 72.342003 78.174004 84.005997 86.336998 88.838997 94.176003 99.18 101.178 103.176 106.011 108.513 113.346 118.35 121.185 126.351 134.028 138.86099 141.696 146.52901 151.866 154.368 159.867 167.54401 172.377 174.375 176.373 178.875 181.539 186.37199 191.205 194.03999 199.04401 201.879 206.71201 209.214 214.218 218.718 220.716 225.72 230.886 233.388 238.554 240.552 243.38699 248.22 253.55701 258.39001 262.89001 267.72299 270.22501 275.05801 277.056 282.22198 287.22601 292.56299 295.065 297.729 302.733 307.737 312.57001 315.405 317.40302 322.569 327.573">- Using SendGrid API built automated Email feature using Firebase cloud functions</tspan></text>
+</g><g
+           transform="translate(36,416)"
+           id="g180"><text
+             id="text184"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,411.273,0)"><tspan
+               id="tspan182"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,402)"
+           id="g186"><text
+             id="text190"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan188"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,402)"
+           id="g192"><text
+             id="text196"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan194"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 14.67 19.836 24.336 26.334 31.671 36.504002 41.841 44.342999 49.347 53.847 58.68 64.016998 66.014999 68.013 70.011002 72.846001 77.346001 79.848 82.682999 87.515999 92.015999 94.014 98.847 105.669 108.171 113.337 116.001 118.503 123.336 128.34 131.33701 134.172 139.005 144.009 146.84399 149.34599 153.84599 155.84399 158.679 163.51199 166.01401 170.847 175.851 181.188 183.69 185.688 193.36501 198.702 200.7 205.533 213.21001 218.043 223.047 225.882 230.715 236.052 238.554 243.89101 248.895 254.061 256.56299 261.22501 265.88699 270.72">- Provided usability review of current site and implemented bug fxes</tspan></text>
+<text
+             id="text200"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,354.42,0)"><tspan
+               id="tspan198"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,389)"
+           id="g202"><text
+             id="text206"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan204"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,389)"
+           id="g208"><text
+             id="text212"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan210"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 16.839001 21.672001 23.67 28.17 32.490002 37.323002 42.66 45.161999 47.16 51.993 57.159 61.992001 66.824997 71.324997 73.827003 78.660004 83.825996 89.163002 93.996002 96.498001 101.331 106.335 111.672 114.174 116.172 123.849 129.186 132.021 137.187 141.687 146.52 151.85699 154.35899 159.192 164.358 169.69501 174.528 177.03 181.86301 184.698 189.53101 194.535 196.533 199.368 204.201 209.034 211.869 216.873 219.70799 224.541">- Analyzed legacy code and improved code architecture </tspan></text>
+<text
+             id="text216"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,306.243,0)"><tspan
+               id="tspan214"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,376)"
+           id="g218"><text
+             id="text222"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan220"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text226"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan224"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 16.334999 20.834999 22.833 27.333 30.167999 35.000999 40.338001 42.84 49.661999 51.66 54.494999 59.499001 62.000999 66.834 72 75.500999 80.000999 85.337997 90.503998 95.508003 100.008 105.174 108.009 112.842 118.179 120.681 125.685 130.51801 133.353 140.175 145.341 148.338 153.009 155.007 160.011 165.177 167.679 172.51199 177.51601 182.853 185.355 190.692 193.52699 198.69299 206.37 211.536 214.371 216.369 221.535 226.539 229.041 233.87399 238.37399 243.207 248.211 251.04601">- Assisted with co-sponsored networking and promotion event </tspan></text>
+</g><g
+           transform="translate(36,376)"
+           id="g228"><text
+             id="text232"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,332.748,0)"><tspan
+               id="tspan230"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,362)"
+           id="g234" /><g
+           transform="translate(36,348)"
+           id="g236"><text
+             id="text240"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan238"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text244"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan242"
+               y="0"
+               x="0 6.1100001 11.29 16.66 22.030001 27.59 30.74 32.959999 37.959999 43.330002 46.110001 52.59 57.59 62.59 64.809998 69.809998 72.959999 78.330002 83.889999 87.040001 89.82">Executive Assistant, </tspan></text>
+</g><g
+           transform="translate(36,348)"
+           id="g246"><text
+             id="text250"
+             style="font-style:italic;font-variant:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Italic;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,171.8,0)"><tspan
+               id="tspan248"
+               y="0"
+               x="0 8.6999998 10.92 16.85 22.780001 25 30.370001 33.52 39.259998 44.82 47.599998 52.23 57.599998 62.790001 71.309998 74.089996 76.68 82.239998 87.610001 90.389999 93.169998 97.059998 99.839996 106.32 111.69 114.84 120.21 122.99 129.66 135.22 140.96001 148.55 153.36 156.14 162.99001 168.36 173.55 175.77 178.55 184.66 189.47 192.62 197.81 200.96001 206.33 209.11 213.74001 219.11 224.3">Middleton Team Inc. - Pete Knows Real Estate Team</tspan></text>
+</g><g
+           transform="translate(36,348)"
+           id="g252"><text
+             id="text256"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,404.62,0)"><tspan
+               id="tspan254"
+               y="0"
+               x="0 2.78 5.5599999 11.12 16.49 19.27 24.459999 30.200001 32.419998 34.639999 40.009998 42.790001 45.57 52.790001 59.27 62.049999 67.050003 69.830002 75.389999 80.949997 86.510002 92.07 95.959999 101.52 107.08 112.64">; La Jolla, CA – 2015-2017</tspan></text>
+</g><g
+           transform="translate(36,348)"
+           id="g258"><text
+             id="text262"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,522.82,0)"><tspan
+               id="tspan260"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,334)"
+           id="g264"><text
+             id="text268"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan266"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,334)"
+           id="g270"><text
+             id="text274"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan272"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 14.67 17.667 22.5 25.334999 30.167999 35.334 37.332001 42.165001 46.998001 48.995998 50.993999 55.493999 57.995998 63.333 66.330002 68.328003 73.494003 76.490997 78.488998 81.323997 83.321999 87.641998 92.474998 97.811996 100.314 102.816 107.316 112.149 117.153 121.986 127.323 132.327 134.325 139.158 144.495 146.99699 149.49899 154.332 159.336 164.673 167.175 174.85201 179.685 184.689 189.522 194.688 199.521 204.858 207.36 212.19299 214.19099 216.189 218.69099 220.689 225.69299 230.526 235.692 243.369 245.367 250.371 255.537 258.039 262.87201 268.20901 273.54599 278.71201 280.70999 285.71399 288.54901 296.22601 301.05899 306.06299 308.89801">- Strategically prioritized, scheduled, and managed all incoming appointments</tspan></text>
+</g><g
+           transform="translate(36,334)"
+           id="g276"><text
+             id="text280"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,392.598,0)"><tspan
+               id="tspan278"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,320)"
+           id="g282"><text
+             id="text286"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan284"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text290"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan288"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 17.000999 18.999001 24.003 26.837999 29.34 34.506001 37.169998 39.672001 44.505001 49.671001 54.674999 57.509998 62.342999 67.176003 70.011002 72.513 75.177002 80.343002 83.339996 85.842003 90.675003 92.672997 94.670998 99.503998 104.508 107.343 111.843 114.345 118.845 123.678 125.676 127.674 129.672 134.67599 139.842 142.34399 150.021 155.02499 157.02299 159.858 161.856 165.35699 173.034 175.032 177.03 179.028 181.026 186.192 191.196 193.698 199.035 204.201 206.19901 208.19701 213.03 216.02699 218.52901 223.533 228.69901 236.37601 241.209">- Point of contact for clients selling multi-million dollar homes</tspan></text>
+<text
+             id="text294"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,324.909,0)"><tspan
+               id="tspan292"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,307)"
+           id="g296"><text
+             id="text300"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan298"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text304"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan302"
+               y="0"
+               x="0 3.5009999 6.0029998 11.835 16.839001 22.176001 27.513 32.679001 35.675999 38.511002 43.344002 48.681 51.182999 56.015999 58.014 60.012001 64.845001 69.848999 72.683998 77.183998 79.685997 84.518997 89.523003 94.860001 97.362 102.195 107.361 112.194 117.198 120.033 124.533 127.035 129.033 134.037 136.539 139.37399 144.37801 149.211 151.713 156.717 161.883 169.56 174.39301 176.895 182.23199 187.23599 191.73599 193.73399 198.73801 203.90401 206.40601 211.239 216.243 221.58 224.082 228.582 233.41499 235.41299 237.411 239.409 244.41299 249.57899 252.08099 257.418 260.25299 265.41901 270.25201 275.08499 279.58499 284.08499 286.58701 289.08899 294.255 299.08801 304.09201 308.92499 311.922 316.755 319.59 324.423 329.76001 332.26199 337.26599 342.26999 347.27399 352.27802 354.78 362.61899 364.617 366.61499 368.61301 370.61099 375.77701 380.78101 383.28299 385.28101 390.285 392.78699 397.28699 402.12 404.11801 408.95099 413.45099">- Supported clients and agents in the home buying and selling process; generated $172 Million in sales </tspan></text>
+<text
+             id="text308"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,495.153,0)"><tspan
+               id="tspan306"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,294)"
+           id="g310"><text
+             id="text314"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan312"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text318"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,86.706,0)"><tspan
+               id="tspan316"
+               y="0"
+               x="0 5.1659999 9.6660004 14.499 17.496 19.997999 25.002001 27.504 32.507999 35.009998 39.509998 44.342999 49.175999 52.173">over 2.5 years</tspan></text>
+</g><g
+           transform="translate(36,294)"
+           id="g320"><text
+             id="text324"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,143.379,0)"><tspan
+               id="tspan322"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,280)"
+           id="g326"><text
+             id="text330"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan328"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,280)"
+           id="g332"><text
+             id="text336"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan334"
+               y="0"
+               x="0 3.5009999 6.0029998 12.501 15.336 20.169001 25.002001 27.837 32.669998 38.007 40.508999 45.674999 48.339001 50.841 57.662998 62.495998 67.833 70.334999 75.167999 80.171997 85.509003 88.011002 93.348 96.345001 98.343002 103.347 106.182 108.684 116.361 121.194 124.191 128.862 133.69501 136.53 138.528 143.532 148.698 151.2 158.877 163.71001 166.545 171.37801 174.375 176.373 181.20599 183.20399 187.70399 190.20599 192.87 198.036 201.033 203.535 208.539 213.705 221.382 226.215 228.717 230.715 232.713 237.213 240.048 242.04601 247.05 252.216">- Created of web and print marketing materials for home listings</tspan></text>
+<text
+             id="text340"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,335.916,0)"><tspan
+               id="tspan338"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,266)"
+           id="g342"><text
+             id="text346"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan344"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text350"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan348"
+               y="0"
+               x="0 3.5009999 6.0029998 8.3339996 13.338 15.336 18.171 20.169001 25.002001 27.837 32.669998 38.007 40.508999 45.341999 50.346001 55.682999 58.185001 63.018002 68.183998 75.861 81.197998 83.195999 85.194 90.027 95.363998 97.865997 102.699 104.697 106.695 111.528 116.532 119.367 121.869 123.867 125.865 130.36501 133.2 135.198 140.202 145.368 147.87 150.37199 155.709 160.713 163.548 168.381 173.38499 178.218 182.718 187.55099 190.05299 192.55499 197.388 202.392 207.729 210.231 215.235 220.06799 225.23399 230.39999 233.235 235.233 240.06599 242.901 244.899 250.065 255.069 257.57101 262.40399 267.57001 272.57401 275.409 278.40601 283.23901 288.07199 290.90701">- Initiated and compiled client listing, purchase, and negotiation contracts</tspan></text>
+</g><g
+           transform="translate(36,266)"
+           id="g352"><text
+             id="text356"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,374.607,0)"><tspan
+               id="tspan354"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,252)"
+           id="g358" /><g
+           transform="translate(36,238)"
+           id="g360"><text
+             id="text364"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan362"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text368"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan366"
+               y="0"
+               x="0 7.2199998 12.78 17.780001 20.93 26.67 35.200001 40.57 43.900002 46.68 53.16 58.529999 61.860001 66.860001 69.080002 74.449997 79.82 82.599998 88.900002 91.68 98.160004 101.31 107.05 109.27 114.64 120.01 123.16 125.94 132.78999 138.16 144.09 147.24001 152.61 157.61 162.98 168.53999 171.69 177.06 180.21001 182.42999 187.42999 192.8 195.58">Customer Service &amp; Project Representative, </tspan></text>
+</g><g
+           transform="translate(36,238)"
+           id="g370"><text
+             id="text374"
+             style="font-style:italic;font-variant:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Italic;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,277.56,0)"><tspan
+               id="tspan372"
+               y="0"
+               x="0 7.2199998 12.59 18.15 21.299999 26.67 30 38.889999 44.080002 47.23 52.599998">CenterWatch</tspan></text>
+</g><g
+           transform="translate(36,238)"
+           id="g376"><text
+             id="text380"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,335.72,0)"><tspan
+               id="tspan378"
+               y="0"
+               x="0 2.78 5.5599999 12.41 18.15 23.15 26.299999 32.040001 37.599998 40.380001 43.16 51.869999 58.349998 61.130001 66.129997 68.910004 74.470001 80.029999 85.589996 91.150002 95.040001 100.6 106.16 111.72">; Boston, MA – 2010-2014</tspan></text>
+</g><g
+           transform="translate(36,238)"
+           id="g382"><text
+             id="text386"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,453,0)"><tspan
+               id="tspan384"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,224)"
+           id="g388"><text
+             id="text392"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan390"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text396"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan394"
+               y="0"
+               x="0">-</tspan></text>
+</g><g
+           transform="translate(36,224)"
+           id="g398"><text
+             id="text402"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,85.592,0)"><tspan
+               id="tspan400"
+               y="0"
+               x="0 4.3379998 7.1729999 12.339 17.343 22.68 24.677999 29.511 34.011002 39.014999 44.181 49.347 52.181999 57.014999 62.352001 64.853996 69.686996 74.691002 80.028 82.529999 87.362999 92.366997 94.364998 97.199997 99.197998 103.698 108.531 111.366 116.199 121.536 124.038 129.20399 134.20799 136.20599 138.20399 143.20799 148.041 150.543 155.37601 160.38 165.717 168.21899 173.556 176.55299 178.55099 183.55499 186.39 188.892 193.392 198.396 203.733 208.233 213.06599 216.063 218.061 223.39799 226.233 228.231 233.397 238.401 242.901 245.403 248.067 253.233 256.23001 258.73199 263.73599 266.23801 271.242 276.246 281.25 283.75201 288.25201 293.25601 298.59299 303.09299 307.92599 310.923 312.92099 318.258 323.091 326.08801">Troubleshooted and cultivated online and print subscriptions for 5,000 subscribers</tspan></text>
+<text
+             id="text406"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,416.18,0)"><tspan
+               id="tspan404"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,210)"
+           id="g408"><text
+             id="text412"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan410"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text416"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan414"
+               y="0"
+               x="0 3.5009999 6.0029998 8.3339996 16.011 21.348 24.183001 29.349001 33.848999 38.681999 44.019001 46.521 53.342999 58.175999 63.513 66.014999 70.848 76.014 81.017998 83.852997 88.685997 93.690002 96.525002 99.027 104.364 109.197 112.194 115.029 120.033 124.866 127.863 132.36301 137.367 139.36501 144.702 147.20399 152.37 157.37399 160.209 163.04401 167.877 172.71001 177.543 182.547 185.049 187.55099 189.549 194.55299 199.386 202.22099 207.054 211.88699 216.38699 221.22 226.55701 229.05901 234.396 239.229 242.226 245.061 247.05901 251.892 253.89 259.22699 264.06 266.89499 268.89301 274.05899 279.06299 281.565 286.90201 291.40201 293.90399 298.90799 303.91199 312.91199 315.414 322.23599 324.23401 327.069 332.073 334.07101 339.07501 341.577 346.58099 351.58499 354.08701 361.76401 366.92999 371.93399 374.76901 379.77301">- Improved web content partnership outreach, increased participation by 30% within 18 months</tspan></text>
+<text
+             id="text420"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,463.473,0)"><tspan
+               id="tspan418"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,197)"
+           id="g422"><text
+             id="text426"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan424"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text430"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan428"
+               y="0"
+               x="0 3.5009999 6.0029998 8.3339996 13.338 18.171 21.006001 25.839001 30.672001 35.172001 40.005001 45.341999 47.844002">- Increased e</tspan></text>
+<text
+             id="text434"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,131.877,0)"><tspan
+               id="tspan432"
+               y="0"
+               x="0">ﬃ</tspan></text>
+<text
+             id="text438"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,139.068,0)"><tspan
+               id="tspan436"
+               y="0"
+               x="0 4.8330002 6.8309999 11.664 16.667999 21.500999 26.000999 28.503 33.668999 36.333 38.834999 43.667999 51.345001 56.178001 58.175999 60.174 62.675999 67.509003 72.342003 80.018997 85.356003 90.189003 92.186996 97.352997 102.357 106.857 109.359 116.181 118.179 121.014 126.018 128.52 133.02 138.024 143.36099 147.86099 152.694 155.69099 157.689 163.026 167.85899 170.856 173.358 178.362 183.69901 189.036 193.869 196.70399 201.537 204.039 206.037 211.041 213.039 215.87399 217.87199 222.705 225.53999 227.53799 232.03799 236.871 239.373 241.875 247.21201 252.045 256.87799 259.71301 264.54599 269.379 273.879 278.71201 284.04901 286.55099 291.384 299.061 303.89401 305.892 307.89001 310.392 315.729 320.89499 325.89899 330.90302 335.73599 340.569 345.069 347.57101 352.90799 357.40799">ciency of email campaigns with subscriber update initiative; decreased email bounces by </tspan></text>
+<text
+             id="text442"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,498.978,0)"><tspan
+               id="tspan440"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,184)"
+           id="g444"><text
+             id="text448"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan446"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text452"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,84.204,0)"><tspan
+               id="tspan450"
+               y="0"
+               x="0 5.0040002 10.008 19.007999 21.51 26.676001 31.176001 36.008999 39.006001 41.507999 46.512001 51.515999 54.018002 61.695 66.861 71.864998 74.699997 79.704002">40% over 13 months</tspan></text>
+<text
+             id="text456"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,168.408,0)"><tspan
+               id="tspan454"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,171)"
+           id="g458"><text
+             id="text462"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan460"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text466"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan464"
+               y="0"
+               x="0 3.5009999 6.0029998 12.834 17.667 22.671 27.504 30.500999 35.334 38.168999 43.001999 48.339001 50.841 58.518002 63.683998 68.688004 71.523003 76.527 78.525002 83.025002 85.527 90.360001 95.363998 100.197 102.195 106.695 109.53 111.528 116.361 118.863 121.698 126.531 131.868 137.034 140.03101 142.866 145.368 150.534 155.53799 158.03999 164.862 169.69501 175.032 177.534 180.369 183.366">- Generated monthly analytic report on web tra</tspan></text>
+<text
+             id="text470"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,267.399,0)"><tspan
+               id="tspan468"
+               y="0"
+               x="0">ﬃ</tspan></text>
+<text
+             id="text474"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,274.59,0)"><tspan
+               id="tspan472"
+               y="0"
+               x="0 4.8330002 7.335 12.168 17.172001 22.509001 25.011 29.511 34.514999 39.852001 44.352001 49.185001 52.181999 54.18 59.516998 64.349998 67.347 69.848999 72.683998 75.518997 80.351997 85.356003 90.693001 95.193001">c and subscriber trends </tspan></text>
+</g><g
+           transform="translate(36,171)"
+           id="g476"><text
+             id="text480"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,372.285,0)"><tspan
+               id="tspan478"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,157)"
+           id="g482"><text
+             id="text486"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan484"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text490"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan488"
+               y="0"
+               x="0 3.5009999 6.0029998 11.007 13.005 17.837999 19.836 24.336 29.169001 34.506001 37.007999 43.830002 45.827999 48.662998 53.667 56.168999 60.668999 65.501999 68.499001 70.497002 75.663002 80.667 85.167 87.668999 93.005997 97.838997 103.176 108.009 111.006 113.841 121.518 126.351 131.355 134.19 138.69 141.192 144.02699 149.19299 151.69501 153.69299 161.37 166.707 168.705 173.53799 181.215 186.048 191.052 193.88699 196.38901 201.39301 206.226 213.048 215.55 220.05 222.88499 225.882 230.715 233.55 238.383 243.549 245.547 250.38 254.88 257.38199 262.71899 267.552 272.052 276.88501 282.22198 284.724 289.89001 294.89401 297.396 302.229 307.233 312.06601 314.064 318.564 321.39899 323.397 328.23001 330.73199 333.56699 338.39999 343.737 348.90302 351.89999">- Liaised with various departments to implement new strategies based on analytic report</tspan></text>
+</g><g
+           transform="translate(36,157)"
+           id="g492"><text
+             id="text496"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,433.935,0)"><tspan
+               id="tspan494"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,144)"
+           id="g498"><text
+             id="text502"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan500"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text506"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan504"
+               y="0"
+               x="0 3.5009999 6.0029998 12.501 15.336 20.169001 25.002001 27.837 32.669998 38.007 40.508999 45.341999 50.346001 52.848 57.681 63.018002 67.517998 72.350998 75.348 78.182999 80.181 84.681 86.679001 91.682999 96.848999 99.350998 104.184 109.35 113.85 116.685 119.187 124.02 129.024 133.85699 135.855 140.355 144.855 146.853 151.353 153.855 158.688 163.188 165.69 171.02699 175.86 178.85699 181.692 184.194 189.36 192.024 194.526 199.35899 201.86099 204.696 209.52901 212.274 217.44 222.27299 225.108 229.94099 235.278 237.78 245.457 250.28999 253.287 257.95801 262.79099 265.62601 267.62399 272.62799 277.79401 280.29599 284.79599 287.63101 290.62799 295.461 298.29599 303.129 308.29501 312.79501">- Created an advertising cost analysis as part of a targeted marketing strategy </tspan></text>
+</g><g
+           transform="translate(36,144)"
+           id="g508" /><g
+           transform="translate(36,131)"
+           id="g510" /><g
+           transform="translate(36,131)"
+           id="g512"><text
+             id="text516"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:LucidaGrande;-inkscape-font-specification:LucidaGrande;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,79.2,0)"><tspan
+               id="tspan514"
+               y="0"
+               x="0">-</tspan></text>
+</g><g
+           transform="translate(36,131)"
+           id="g518" /><g
+           transform="translate(36,131)"
+           id="g520"><text
+             id="text524"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:LucidaGrande;-inkscape-font-specification:LucidaGrande;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,86.65752,0)"><tspan
+               id="tspan522"
+               y="0"
+               x="0">I</tspan></text>
+</g><g
+           transform="translate(36,131)"
+           id="g526"><text
+             id="text530"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,89.25029,0)"><tspan
+               id="tspan528"
+               y="0"
+               x="0 5.0040002 7.8390002 12.672 15.669 20.169001 22.167 27 33.821999 38.654999 43.992001 46.493999 51.327 56.331001 61.667999 64.169998 67.004997 70.001999 74.834999 76.833 81.836998 86.669998 92.007004 94.509003 99.513 104.346 111.168 113.67 118.674 120.672 123.507 128.34 132.84 135.342 140.508 145.51199 148.01401 150.01199 155.01601 157.851 162.68401 165.843 170.847 175.67999 177.67799 180.17999 184.67999 189.17999 193.67999 196.515 201.34801 209.02499 213.52499 216.02699 218.52901 220.52699 225.53101 230.364 232.362 237.366 242.703 244.701 249.705 254.871 257.37299 259.371 264.20401 269.03699 274.37399 279.207 282.20401 286.70401 291.70801 293.70599 299.043">nterviewed and trained new hires on internal systems, including leadership </tspan></text>
+</g><g
+           transform="translate(36,131)"
+           id="g532"><text
+             id="text536"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:LucidaGrande;-inkscape-font-specification:LucidaGrande;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,390.7953,0)"><tspan
+               id="tspan534"
+               y="0"
+               x="0"> </tspan></text>
+</g><g
+           transform="translate(115,117)"
+           id="g538" /><g
+           transform="translate(36,103)"
+           id="g540"><text
+             id="text544"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan542"
+               y="0"
+               x="0 6.1100001 12.04 17.6 22.969999 28.34 31.49 33.709999 39.450001">Education</tspan></text>
+<text
+             id="text548"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,45.01,0)"><tspan
+               id="tspan546"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,103)"
+           id="g550"><text
+             id="text554"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,84,0)"><tspan
+               id="tspan552"
+               y="0"
+               x="0 6.4980001 11.502 13.5 18 22.833 25.83 30.33 32.327999 35.162998 39.662998 42.165001 47.331001 49.994999 52.497002 60.335999 65.168999 69.668999 74.168999 79.001999 83.834999 88.838997 93.843002 98.343002 103.176 106.011 108.846 113.346 115.848 121.68 129.35699 134.36099 139.194 142.19099 146.69099 149.526 152.028 154.53 160.362 168.039 173.043 177.87601 180.873 185.373 188.20799 190.71001 193.21201 201.05099 206.883 209.38499 213.88499">University of Massachusetts Amherst, Amherst, MA – </tspan></text>
+</g><g
+           transform="translate(36,103)"
+           id="g556"><text
+             id="text560"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,300.387,0)"><tspan
+               id="tspan558"
+               y="0"
+               x="0 6.165 8.6669998 14.499 17.000999 19.503 21.500999 26.504999 29.007 35.505001 40.671001 48.348 56.025002 61.028999 66.032997 68.030998 72.863998 77.696999 80.531998 82.529999 87.695999 92.699997">B.A. in Communications</tspan></text>
+<text
+             id="text564"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,397.587,0)"><tspan
+               id="tspan562"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,89)"
+           id="g566"><text
+             id="text570"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan568"
+               y="0"
+               x="0">	</tspan></text>
+<text
+             id="text574"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,83.9997,0)"><tspan
+               id="tspan572"
+               y="0"
+               x="0 6.4980001 11.331 14.328 17.163 19.160999 23.823 28.656 33.993 36.494999 42.327 47.493 49.491001 53.991001 58.491001 63.657001 71.334 76.337997 81.503998 86.669998 89.667 94.5 99.836998 104.841 106.839 111.672 114.174 118.341 123.174 128.007 133.011 138.015 140.013 144.84599 146.84399 151.677 156.681 159.183 161.51401 168.01199 173.84399 179.67599 186.507 191.673">Certifed Polysomnographic Technician (CPSGT)</tspan></text>
+</g><g
+           transform="translate(36,89)"
+           id="g576"><text
+             id="text580"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,278.004,0)"><tspan
+               id="tspan578"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(36,76)"
+           id="g582"><text
+             id="text586"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan584"
+               y="0"
+               x="0">	</tspan></text>
+</g><g
+           transform="translate(36,76)"
+           id="g588"><text
+             id="text592"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,84,0)"><tspan
+               id="tspan590"
+               y="0"
+               x="0 6.4980001 11.331 13.329 15.327 17.990999 23.157 26.316 31.32 33.318001 38.151001 40.653 46.818001 51.651001 56.484001 58.481998 60.984001 66.483002 70.983002 73.818001 78.651001 81.486 86.319 88.820999 93.824997 95.822998 100.656 105.489 110.493 114.993 119.826 122.328 128.826 133.659 135.657 141.82201 147.987 153.48599 155.98801 158.49001 163.494 168.498 173.502 178.506 183.50999 188.51401 193.51801">California Real Estate License CalBRE: 02011558</tspan></text>
+</g></g></g><g
+       id="g594"><g
+         clip-path="url(#clipPath600)"
+         id="g596"><g
+           transform="translate(460,778)"
+           id="g602" /><g
+           transform="translate(464,766)"
+           id="g604"><text
+             id="text608"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan606"
+               y="0"
+               x="0 5.8319998 10.836 16.002001 18.504 25.002001 27.171 32.174999 37.512001 42.848999 45.351002 47.853001 54.351002">San Diego, CA</tspan></text>
+</g><g
+           transform="translate(464,766)"
+           id="g610" /><g
+           transform="translate(463,744)"
+           id="g612"><text
+             id="text616"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan614"
+               y="0"
+               x="0 5.0040002 10.008 15.012 18.513 23.517 28.521 33.525002 37.026001 42.029999 47.034 52.037998">541-951-3504</tspan></text>
+</g><g
+           transform="translate(463,744)"
+           id="g618" /><g
+           transform="translate(462,721)"
+           id="g620"><text
+             id="text624"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan622"
+               y="0"
+               x="0 5.0040002 10.008 13.005 15.174 20.177999 23.174999 28.511999 31.68 34.676998 40.014 43.02 48.023998 50.193001 52.362 57.366001 64.566002 69.903 77.733002 82.737 84.905998 87.074997 89.577003 94.581001 99.917999">catietortorella@gmail.com</tspan></text>
+</g><g
+           transform="translate(462,721)"
+           id="g626" /><g
+           transform="translate(463,698)"
+           id="g628"><text
+             id="text632"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan630"
+               y="0"
+               x="0 2.1689999 4.3379998 9.5039997 14.337 19.341 24.84 27.009001 32.174999 34.676998 39.681 45.018002 52.848 56.015999 58.185001 63.351002 66.518997 71.523003 76.527 79.524002 81.693001 86.696999 89.694 95.030998 98.198997 101.196 106.533 109.539 114.543 116.712 118.881 123.885">linkedin.com/in/catietortorella </tspan></text>
+</g><g
+           transform="translate(464,675)"
+           id="g634"><text
+             id="text638"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan636"
+               y="0"
+               x="0 5.3369999 7.506 10.503 15.669 20.834999 26.334 28.836 33.84 39.176998 47.007 50.174999 56.673 61.676998 64.674004 66.843002 71.847 76.184998 81.522003 84.690002">github.com/CatieTort</tspan></text>
+</g><g
+           transform="translate(464,675)"
+           id="g640" /><g
+           transform="translate(464,652)"
+           id="g642"><text
+             id="text646"
+             style="font-variant:normal;font-weight:500;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Medium;writing-mode:lr-tb;fill:#7a7a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan644"
+               y="0"
+               x="0 6.4980001 11.502 14.499 16.667999 21.672001 24.174 29.177999 34.514999 40.014 45.018002">Catie.codes</tspan></text>
+</g></g></g><g
+       id="g648"><g
+         clip-path="url(#clipPath654)"
+         id="g650"><g
+           transform="translate(36,725)"
+           id="g656"><text
+             id="text660"
+             style="font-variant:normal;font-weight:bold;font-size:60px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#38d3a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan658"
+               y="0"
+               x="0 44.459999 78.900002 100.02 115.5 149.94">Catie </tspan></text>
+</g></g></g><g
+       id="g662"><g
+         clip-path="url(#clipPath668)"
+         id="g664"><g
+           transform="translate(36,672)"
+           id="g670"><text
+             id="text674"
+             style="font-variant:normal;font-weight:bold;font-size:60px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#38d3a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan672"
+               y="0"
+               x="0 30 66.660004 90 111.12 147.78 170.03999 204.48 219.96001 235.44">Tortorella</tspan></text>
+</g></g></g><g
+       id="g676"><g
+         clip-path="url(#clipPath682)"
+         id="g678"><g
+           transform="translate(133,555)"
+           id="g684"><text
+             id="text688"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan686"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,555)"
+           id="g690"><text
+             id="text694"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan692"
+               y="0"
+               x="0 4.671 9.5039997 14.004 18.837 23.337 28.17 31.167 33.165001 38.501999">Javascript</tspan></text>
+<text
+             id="text698"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,41.337,0)"><tspan
+               id="tspan696"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(133,542)"
+           id="g700"><text
+             id="text704"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan702"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,542)"
+           id="g706"><text
+             id="text710"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan708"
+               y="0"
+               x="0 6.4980001 11.664 19.503 24.507 27.009001 32.679001 35.181 41.679001 47.511002">HTML &amp; CSS</tspan></text>
+<text
+             id="text714"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,53.343,0)"><tspan
+               id="tspan712"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(133,529)"
+           id="g716"><text
+             id="text720"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan718"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,529)"
+           id="g722"><text
+             id="text726"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan724"
+               y="0"
+               x="0 6.165 10.998 15.831 20.664">React</tspan></text>
+<text
+             id="text730"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,23.499,0)"><tspan
+               id="tspan728"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(133,516)"
+           id="g732"><text
+             id="text736"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan734"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,516)"
+           id="g738"><text
+             id="text742"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan740"
+               y="0"
+               x="0 5.8319998 10.998 15.498 18.333 23.499001 26.334 31.167 35.667 41.499001 48.339001">PostgresSQL</tspan></text>
+<text
+             id="text746"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,53.343,0)"><tspan
+               id="tspan744"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(133,503)"
+           id="g748"><text
+             id="text752"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan750"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,503)"
+           id="g754"><text
+             id="text758"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan756"
+               y="0"
+               x="0 5.8319998 10.665 16.002001 21.006001 25.839001 27.837 29.834999 34.154999">Sequelize</tspan></text>
+<text
+             id="text762"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,38.988,0)"><tspan
+               id="tspan760"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(133,490)"
+           id="g764"><text
+             id="text768"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan766"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(143,490)"
+           id="g770"><text
+             id="text774"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan772"
+               y="0"
+               x="0 5.4990001 10.161 15.498 18.333 23.166 27.666 32.166 34.667999 36.666">Express.js</tspan></text>
+</g></g></g><g
+       id="g776"><g
+         clip-path="url(#clipPath782)"
+         id="g778"><g
+           transform="translate(231,555)"
+           id="g784"><text
+             id="text788"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan786"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,555)"
+           id="g790"><text
+             id="text794"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan792"
+               y="0"
+               x="0 6.165 11.331 16.497 19.332001 23.832001 26.667 29.664 34.497002">Bootstrap</tspan></text>
+</g><g
+           transform="translate(241,555)"
+           id="g796"><text
+             id="text800"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,39.834,0)"><tspan
+               id="tspan798"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(231,542)"
+           id="g802"><text
+             id="text806"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan804"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,542)"
+           id="g808"><text
+             id="text812"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan810"
+               y="0"
+               x="0 4.671 9.5039997 14.004">Jest</tspan></text>
+<text
+             id="text816"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,16.839,0)"><tspan
+               id="tspan814"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(231,529)"
+           id="g818"><text
+             id="text822"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan820"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,529)"
+           id="g824"><text
+             id="text828"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan826"
+               y="0"
+               x="0 6.165 11.664 17.496 22.662001 25.326 30.33 32.327999 34.830002 40.661999 46.493999 48.825001">RESTful APIs</tspan></text>
+<text
+             id="text832"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,53.325,0)"><tspan
+               id="tspan830"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(231,516)"
+           id="g834"><text
+             id="text838"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan836"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,516)"
+           id="g840"><text
+             id="text844"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan842"
+               y="0"
+               x="0 5.8319998 10.998 12.996 14.994 19.827 22.823999 28.656 35.153999 41.319 47.817001">Agile/SCRUM</tspan></text>
+<text
+             id="text848"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,55.656,0)"><tspan
+               id="tspan846"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(231,503)"
+           id="g850"><text
+             id="text854"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan852"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,503)"
+           id="g856"><text
+             id="text860"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan858"
+               y="0"
+               x="0 4.1669998 9 13.5 16.334999 18.837 25.173 28.17 30.167999 34.667999 39.500999 44.505001 47.007 53.342999 58.175999 62.675999 67.509003 69.507004 74.672997 80.010002 87.686996 92.519997 97.524002">Test Driven Development</tspan></text>
+<text
+             id="text864"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,100.359,0)"><tspan
+               id="tspan862"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(231,490)"
+           id="g866"><text
+             id="text870"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan868"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(241,490)"
+           id="g872"><text
+             id="text876"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan874"
+               y="0"
+               x="0 5.8319998 10.665 12.663 15.66 18.162001 23.993999 26.829 31.995001 37.160999 40.158001 44.991001 52.667999 60.345001 62.342999 67.347">Pair Programming</tspan></text>
+</g></g></g><g
+       id="g878"><g
+         clip-path="url(#clipPath884)"
+         id="g880"><g
+           transform="matrix(27,0,0,144,428,642)"
+           id="g886"><image
+             id="image892"
+             mask="url(#mask888)"
+             xlink:href="data:image/png;base64,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"
+             transform="matrix(1,0,0,-1,0,1)"
+             preserveAspectRatio="none"
+             height="1"
+             width="1" /></g></g></g><g
+       id="g894"><g
+         clip-path="url(#clipPath900)"
+         id="g896"><g
+           transform="translate(359,555)"
+           id="g902"><text
+             id="text906"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan904"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,555)"
+           id="g908"><text
+             id="text912"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan910"
+               y="0"
+               x="0 6.8309999 11.997 17.163 22.329 24.327 29.16 31.662001 37.493999 42.498001 47.331001 49.328999 53.828999 56.664001 58.661999 63.494999">Google Analytics</tspan></text>
+<text
+             id="text916"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,67.995,0)"><tspan
+               id="tspan914"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(359,542)"
+           id="g918"><text
+             id="text922"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan920"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,542)"
+           id="g924"><text
+             id="text928"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan926"
+               y="0"
+               x="0 6.8309999 8.8290005">Git</tspan></text>
+<text
+             id="text932"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,11.664,0)"><tspan
+               id="tspan930"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(359,529)"
+           id="g934"><text
+             id="text938"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan936"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,529)"
+           id="g940"><text
+             id="text944"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan942"
+               y="0"
+               x="0 6.8309999 8.8290005 11.664 16.667999 21.672001">Github</tspan></text>
+<text
+             id="text948"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,27.009,0)"><tspan
+               id="tspan946"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(359,516)"
+           id="g950"><text
+             id="text954"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan952"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,516)"
+           id="g956"><text
+             id="text960"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan958"
+               y="0"
+               x="0 7.8210001 12.987 15.822">Word</tspan></text>
+<text
+             id="text964"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,21.159,0)"><tspan
+               id="tspan962"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(359,503)"
+           id="g966"><text
+             id="text970"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan968"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,503)"
+           id="g972"><text
+             id="text976"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan974"
+               y="0"
+               x="0 5.8319998 10.998 17.82 22.653 25.65 31.482 36.647999 38.646 43.650002">PowerPoint</tspan></text>
+<text
+             id="text980"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,46.485,0)"><tspan
+               id="tspan978"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(359,490)"
+           id="g982"><text
+             id="text986"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan984"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(369,490)"
+           id="g988"><text
+             id="text992"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan990"
+               y="0"
+               x="0 5.4990001 10.161 14.994 19.827">Excel</tspan></text>
+</g></g></g><g
+       id="g994"><g
+         clip-path="url(#clipPath1000)"
+         id="g996"><g
+           transform="translate(457,555)"
+           id="g1002"><text
+             id="text1006"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1004"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(467,555)"
+           id="g1008"><text
+             id="text1012"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1010"
+               y="0"
+               x="0 5.8319998 10.836 16.002001 18.837 24.003 28.503 33.507 38.673">Photoshop</tspan></text>
+<text
+             id="text1016"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,44.01,0)"><tspan
+               id="tspan1014"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(457,542)"
+           id="g1018"><text
+             id="text1022"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1020"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(467,542)"
+           id="g1024"><text
+             id="text1028"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1026"
+               y="0"
+               x="0 5.8319998 10.665 15.669 21.006001 27.837 30.834 32.832001">SendGrid</tspan></text>
+<text
+             id="text1032"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,38.169,0)"><tspan
+               id="tspan1030"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(457,529)"
+           id="g1034"><text
+             id="text1038"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1036"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(467,529)"
+           id="g1040"><text
+             id="text1044"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1042"
+               y="0"
+               x="0 5.1659999 7.164 9.9989996 14.832 20.169001 25.002001 29.502001">Firebase</tspan></text>
+<text
+             id="text1048"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,34.335,0)"><tspan
+               id="tspan1046"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(457,516)"
+           id="g1050"><text
+             id="text1054"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1052"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(467,516)"
+           id="g1056"><text
+             id="text1060"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1058"
+               y="0"
+               x="0 7.8390002 12.672 14.67 16.667999 23.166 28.17 30.167999 37.845001">MailChimp</tspan></text>
+<text
+             id="text1064"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,43.182,0)"><tspan
+               id="tspan1062"
+               y="0"
+               x="0"></tspan></text>
+</g><g
+           transform="translate(457,503)"
+           id="g1066"><text
+             id="text1070"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1068"
+               y="0"
+               x="0">•</tspan></text>
+</g><g
+           transform="translate(467,503)"
+           id="g1072"><text
+             id="text1076"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="scale(1,-1)"><tspan
+               id="tspan1074"
+               y="0"
+               x="0 5.8319998 8.6669998 11.502 16.334999 21.167999 28.844999 33.345001 38.178001 43.181999">Streamsend</tspan></text>
+<text
+             id="text1080"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,48.519,0)"><tspan
+               id="tspan1078"
+               y="0"
+               x="0"></tspan></text>
+</g></g></g></g></svg>
