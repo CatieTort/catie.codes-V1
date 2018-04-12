@@ -76,10 +76,6 @@ body {
 	clear: both;
 }
 
-@import 'stylesheets/design.css';
-@import 'stylesheets/projects.css';
-@import 'stylesheets/ux.css';
-
 /* UTILITY STYLING */
 
 .u-center-text { text-align: center !important;}
@@ -386,7 +382,6 @@ body {
 	left: 1.5rem;
 	width: 100%;
 	background-color: #fff;
-	/* transform: skewX(-15deg); */
 	border-radius: 4px;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
@@ -404,7 +399,6 @@ body {
 		.interests__box {
 			top: 25rem;
 			left: -4.5rem;
-			transform: skewX(-10deg);
 			-webkit-backface-visibility: hidden;
 			backface-visibility: hidden;
 		}
@@ -416,7 +410,6 @@ body {
 	left: -3rem;
 	width: 100%;
 	background-color: #fff;
-	/* transform: skewX(-15deg); */
 	border-radius: 4px;
 	box-shadow: 0 1.5rem 4rem rgba(0,0,0, .2);
 }
@@ -432,7 +425,6 @@ body {
 		.interests__box--design {
 			top: 40rem;
 			left: -4.7rem;
-			transform: skewX(-10deg);
 		}
 	} */
 
@@ -458,7 +450,6 @@ body {
 		.interests__box--ux-ui {
 			top: 33rem;
 			left: 80rem;
-			transform: skewX(-10deg);
 		}
 	} */
 
@@ -498,14 +489,12 @@ body {
 	font-size: 3rem;
 	padding-top: 3.5rem;
 	color: #000058;
-	/* transform: skewX(15deg); */
 }
 
 	/* @media (min-width: 112.5em){
 		.interests__heading {
 			font-size: 3rem;
 			padding: 4rem 2rem 1rem 0;
-			transform: skewX(10deg);
 		}
 	} */
 
@@ -515,14 +504,12 @@ body {
 	font-size: 1.4rem;
 	padding: 4rem;
 	margin-bottom: 2rem;
-	/* transform: skewX(15deg); */
 }
 
 	/* @media (min-width: 112.5em){
 		.interests__details {
 			font-size: 1.5rem;
 			padding: 1rem 4rem 3rem 5rem;
-			transform: skewX(10deg);
 		}
 	} */
 
@@ -542,6 +529,8 @@ body {
 } */
 
 .btn {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
 	font-size: 1.5rem;
 	text-decoration: none;
 	transition: all .2s;
@@ -793,7 +782,6 @@ body {
 
 #resume-btn {
 	font-size: 1.8rem;
-	margin-top: 5rem;
 	margin-left: 0;
 	text-align: center;
 }
@@ -815,7 +803,6 @@ body {
 			margin-top: -22.3rem;
 		}
 	} */
-
 
 .form {
 	width: 50%;
@@ -901,6 +888,31 @@ textarea#message {
 	font-size: 1.2rem;
 	letter-spacing: 1.7;
 	color: #ABABAB;
+}
+
+.icons {
+	position: relative;
+}
+
+.icons__linkedin {
+	position: absolute;
+	top: -5rem;
+	left: 12rem;
+}
+
+#linkedin {
+	width: 3.5rem;
+}
+
+
+.icons__git {
+	position: absolute;
+	top: -5rem;
+	left: 6rem;
+}
+
+#git {
+	width: 3.5rem;
 }
 
 	/* @media (min-width: 75em){
