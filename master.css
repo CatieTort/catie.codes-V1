@@ -496,7 +496,7 @@ body {
 .interests__heading {
 	text-align: center;
 	font-size: 3rem;
-	padding-top: 4rem;
+	padding-top: 3.5rem;
 	color: #000058;
 	/* transform: skewX(15deg); */
 }
@@ -511,9 +511,10 @@ body {
 
 .interests__details {
 	width: 100%;
-	font-size: 1.2rem;
-	padding: 2rem 5rem 2rem 6.5rem;
-	margin-bottom: 4rem;
+	height: 25rem;
+	font-size: 1.4rem;
+	padding: 4rem;
+	margin-bottom: 2rem;
 	/* transform: skewX(15deg); */
 }
 
