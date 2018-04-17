@@ -788,7 +788,7 @@ body {
 
 /* CONTACT STYLING */
 .section-contact {
-	height: 73rem;
+	height: 53rem;
 	font-family: 'Roboto Slab', serif;
 	margin-top: -20.3rem;
 	padding: 25rem 0;
@@ -796,6 +796,27 @@ body {
 	-webkit-clip-path: polygon(0 0, 100% 19%, 100% 100%, 20% 100%);
 	clip-path: polygon(0 0, 100% 19%, 100% 100%, 20% 100%);
 	background-image: linear-gradient(to right bottom, rgba(51,204,153), rgba(0,0,88));
+}
+
+.contact__details {
+	position: absolute;
+	top: 35%;
+	left: 45%;
+}
+
+.contact__email {
+	font-size: 2.5rem;
+	color: #fff;
+	margin: 3rem;
+}
+
+#email {
+	text-decoration: none;
+	color: #eee;
+}
+
+#email:hover {
+	color: #ABABAB;
 }
 
 	/* @media (min-width: 75em){

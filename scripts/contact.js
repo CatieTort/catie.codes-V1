@@ -1,6 +1,7 @@
+var mailgun = require("mailgun-js");
 const api_key = 'process.env.MAIL_API_KEY';
 const DOMAIN = 'https://api.mailgun.net/v3/catie.codes';
-let mailgun = require('mailgun-js')({apiKey: api_key, domain: DOMAIN});
+var mailgun = require('mailgun-js')({apiKey: api_key, domain: DOMAIN});
 
 function handleFormSubmit (e){
 	e.preventDefault()
@@ -16,16 +17,13 @@ function handleFormSubmit (e){
 	return message;
 }
 
-
-
 let data = {
   from: message.name + " " + '<' + message.email'>',
   to: 'catie@catie.codes',
   subject: 'A Message from Catie.codes',
   html:
-	<html>
-		<header style="text-align:center;margin:20px;text-shadow:2px1px1px#2E2E2E;
-		color:#33CC99;">
+	<html style="box-sizing:border-box;">
+		<header style="text-align:center;margin:20px;text-shadow:2px1px1px#2E2E2E;color:#33CC99;">
 				<h1>Catie.codes</h1>
 		</header>
 		<body>
